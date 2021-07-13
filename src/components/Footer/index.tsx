@@ -6,7 +6,7 @@ export function Footer() {
       <p>
         Created by
         {' '}
-        <a href="https://github.com/pedro-henrique-sb/">Pedro Henrique</a>
+        <a href="https://github.com/pedro-henrique-sb/" target="_blank" rel="noreferrer">Pedro Henrique</a>
       </p>
     </FooterStyled>
   );
