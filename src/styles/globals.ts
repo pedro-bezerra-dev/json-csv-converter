@@ -19,4 +19,8 @@ export const theme = {
     primary: '#222A68',
     secondary: '#3F84E5',
   },
+  text: {
+    codeText: "500 16px 'Fira Code', monospace",
+    title: "800 36px 'Roboto', sans-serif",
+  },
 };
