@@ -12,3 +12,7 @@ export const GlobalStyle = createGlobalStyle`
     height: 100vh;
   }
 `;
+
+export const theme = {
+
+};
