@@ -1,14 +1,9 @@
-import { ReactNode } from 'react';
 import { HeaderStyled } from './styles';
 
-type HeaderProps = {
-  children: ReactNode
-}
-
-export function Header({ children }: HeaderProps) {
+export function Header() {
   return (
     <HeaderStyled>
-      {children}
+      Hello World
     </HeaderStyled>
   );
 }
