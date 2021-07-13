@@ -14,5 +14,9 @@ export const GlobalStyle = createGlobalStyle`
 `;
 
 export const theme = {
-
+  colors: {
+    background: '#F8F8F8',
+    primary: '#222A68',
+    secondary: '#3F84E5',
+  },
 };
